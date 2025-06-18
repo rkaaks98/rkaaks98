@@ -67,6 +67,9 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkaaks98&layout=compact)
 
+![Visitors](https://komarev.com/ghpvc/?username=rkaaks98&color=blue&style=flat-square)
+
+
 </div>
 
 ---
