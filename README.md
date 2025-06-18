@@ -72,7 +72,7 @@
 ---
 
 ### 📫 연락처
-- Email: your.email@example.com
+- Email: wnstj050505@gmail.com
 
 ---
 
