@@ -46,27 +46,25 @@
 ### 💼 프로젝트
 | 이름 | 설명 | 기술스택 |
 |------|------|----------|
-| [롯데ON](https://github.com/your-username/lotteon) | Spring Boot 기반 쇼핑몰 프로젝트 | Java, Spring Boot, JPA, MySQL |
-| [그린대 수강관리시스템](https://github.com/your-username/greendae) | 대학 강의/교수 관리 시스템 | Spring Boot, JPA, Thymeleaf |
-| [J2SM 프로젝트](https://github.com/your-username/j2sm) | React + DnD 기반 프로젝트 생성 툴 | React, Zustand, Editor.js |
+| [롯데ON]([https://github.com/your-username/lotteon](https://github.com/rkaaks98/LotteOn-Project)) | Spring Boot 기반 쇼핑몰 프로젝트 | Java, Spring Boot, JPA, MySQL |
+| [그린대 수강관리시스템]([https://github.com/your-username/greendae](https://github.com/rkaaks98/greendae)) | 대학 강의/교수 관리 시스템 | Spring Boot, JPA, Thymeleaf |
+| [J2SM 프로젝트]([https://github.com/your-username/j2sm](https://github.com/greenlotte6/lotte2-community-app-project-team1)) | React + DnD 기반 프로젝트 생성 툴 | React, Zustand, Editor.js |
 
 ---
 
 ### 📊 GitHub 통계
 <div align="center">
   
-![Junseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide=stars&count_private=true)
+![Junseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkaaks98&show_icons=true&theme=default&hide=stars&count_private=true)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkaaks98&layout=compact)
 
 </div>
 
 ---
 
 ### 📫 연락처
-- Email: your.email@example.com  
-- Portfolio: [https://your-portfolio.com](https://your-portfolio.com)
-- Blog: [https://velog.io/@yourid](https://velog.io/@yourid)
+- Email: your.email@example.com
 
 ---
 
