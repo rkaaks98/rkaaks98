@@ -56,7 +56,7 @@
 |------|------|----------|-----------|
 | [롯데ON](https://github.com/rkaaks98/LotteOn-Project) | Spring Boot 기반 쇼핑몰 프로젝트 | Java, Spring Boot, JPA, MySQL | [🚀 유튜브 시연](https://www.youtube.com/watch?v=nHHn1gkLyAQ&t=3s) |
 | [그린대 수강관리시스템](https://github.com/rkaaks98/greendae) | 대학 강의/교수 관리 시스템 | Spring Boot, JPA, Thymeleaf | - |
-| [J2SM 프로젝트](https://github.com/greenlotte6/lotte2-community-app-project-team1) | React + DnD 기반 프로젝트 생성 툴 | React, Zustand, Editor.js | - |
+| [J2SM 프로젝트](https://github.com/greenlotte6/lotte2-community-app-project-team1) | React + DnD 기반 프로젝트 생성 툴 | React, Zustand, Editor.js | [🚀 유튜브 시연](https://www.youtube.com/watch?v=YOnsxnGCq_U) |
 
 ---
 
